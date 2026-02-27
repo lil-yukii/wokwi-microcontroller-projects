@@ -64,17 +64,4 @@ Follow these steps to run any project from this repository:
 
 ---
 
-## Example Projects Included
 
-| Project Name       | Description                                 |
-|-------------------|---------------------------------------------|
-| Binary Counter     | Displays numbers 0–15 in binary using 4 LEDs. Includes a blinking sequence at reset. |
-| Project 2          | *(Add description)*                          |
-| Project N          | *(Add description)*                          |
-
-> You can add more projects following the same folder structure.
-
----
-
-✅ **Pro Tip:**  
-Keep your folder and project names consistent, and update this README whenever you add new projects. This keeps your GitHub repo clean, organized, and portfolio-ready.
