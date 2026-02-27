@@ -59,7 +59,6 @@ Follow these steps to run any project from this repository:
 
 - Always copy **the entire content** of both files. Partial copying may cause errors.  
 - Make sure the Arduino board in Wokwi matches the one used in the project (usually **Arduino Uno**).  
-- You can rename folders to better describe the projects as you add more.  
 - This repository is a growing collection — more projects will be added over time.
 
 ---
