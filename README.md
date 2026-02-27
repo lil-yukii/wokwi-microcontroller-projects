@@ -14,13 +14,16 @@ Each project contains two key files:
 wokwi-microcontroller-projects/
 ├── binary-counter/
 │   ├── sketch.ino
-│   └── diagram.json
+│   ├── diagram.json
+│   └── README.md
 ├── project-2/
 │   ├── sketch.ino
-│   └── diagram.json
+│   ├── diagram.json
+│   └── README.md
 └── project-n/
     ├── sketch.ino
-    └── diagram.json
+    ├── diagram.json
+    └── README.md
 ```
 > Each project folder is self-contained with its own Arduino code and Wokwi diagram.
 
