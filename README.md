@@ -10,18 +10,17 @@ Each project contains two key files:
 ---
 
 ## Folder Structure
-`wokwi-microcontroller-projects/
-  ├─ projects/
-  │   ├─ binary-counter/
-  │   │   ├─ sketch.ino
-  │   │   └─ diagram.json
-  │   ├─ project-2/
-  │   │   ├─ sketch.ino
-  │   │   └─ diagram.json
-  │   └─ project-n/
-  │       ├─ sketch.ino
-  │       └─ diagram.json
-`
+
+📁 wokwi-microcontroller-projects/
+├── 📁 binary-counter/
+│   ├── sketch.ino
+│   └── diagram.json
+├── 📁 project-2/
+│   ├── sketch.ino
+│   └── diagram.json
+└── 📁 project-n/
+    ├── sketch.ino
+    └── diagram.json
 > Each project folder is self-contained with its own Arduino code and Wokwi diagram.
 
 ---
